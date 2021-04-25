@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pendaki>
+    <identitas id="p1">
+        <nama>Nandana</nama>
+        <alamat>Cigeureung</alamat>
+        <umur>23 tahun</umur>
+    </identitas>
+    <identitas id="p2">
+        <nama>Khidir</nama>
+        <alamat>Aboh</alamat>
+        <umur>23 tahun</umur>
+    </identitas>
+    <identitas id="p3">
+        <nama>Iman</nama>
+        <alamat>Cisalak</alamat>
+        <umur>23 tahun</umur>
+    </identitas>
+    <identitas id="p4">
+        <nama>Ilmi</nama>
+        <alamat>Mangkubumi</alamat>
+        <umur>33 tahun</umur>
+    </identitas>
+    
+</pendaki>
